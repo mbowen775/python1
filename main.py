@@ -1,7 +1,7 @@
 # This is a sample Python script.
 
 # Press Shift+10 to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 # This function asks the user's name and prints it to the screen
 def my_function():
